@@ -1,5 +1,5 @@
 # API Documentation
-In this example we are using the no encryption API for MyAuth as there wasn't anything that could do  what we needed properly while maintaining fast and clean code.
+The encryption API is used in the C++ library and you would need to purchase to gain access
 
 ## Authenticating
 You can send a GET request with these queries to get a response
